@@ -11324,6 +11324,64 @@ header {
   padding-bottom: 6rem;
 }
 
+header.masthead {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/Figure%209.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+header.masthead1 {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/1%20added%2007_06.webp");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+header.masthead2 {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/4%20added%2007_06.webp");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+header.masthead3 {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/1%20added%2007_06-kopia.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+header.masthead4 {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/2%20added%2007_06.webp");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
 section {
   padding-top: 4rem;
   padding-bottom: 4rem;
